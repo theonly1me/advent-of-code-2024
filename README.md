@@ -1,4 +1,4 @@
-# AOC 2024
+# AoC 2024
 
 Just me doing AoC 2024
 
